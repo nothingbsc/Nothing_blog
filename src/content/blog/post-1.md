@@ -2,7 +2,7 @@
 title: "Building a safe crypto startup from scratch."
 meta_title: ""
 description: "this is meta description"
-date: 2022-04-04T05:00:00Z
+date: 2023-06-13T05:00:00Z
 image: "/images/image-placeholder.png"
 categories: ["Crypto", "Startup"]
 author: "Nothing Protocol Dev"
