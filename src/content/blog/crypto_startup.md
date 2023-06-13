@@ -38,7 +38,7 @@ I heard a lot about ChakraUI a front end framework for react, Front end framewor
 
 After making some changes to UI and creating a logo using [Canva](https://www.canva.com/) I was ready to go. I then created the telegram group, in order to setup the telegram group I added the logo, a friendly bot called [MissRoseBot](https://t.me/MissRose_bot) which helps investors by responding to questions from investors. I also added [SafeguardRobot](https://t.me/SafeguardRobot) to protect the group from bots.
 
-I added [buybottech](https://t.me/buytech)so investors can see the value of buys and added the bot [skeletonpricebot](https://t.me/SkeletonPriceBot) so investors can see the price and chart.
+I added [buybottech](https://t.me/buytech) so investors can see the value of buys and added the bot [skeletonpricebot](https://t.me/SkeletonPriceBot) so investors can see the price and chart.
 
 Created a social media account on [twitter](https://twitter.com/nothingcoinbsc) to share updates on the project.
 
