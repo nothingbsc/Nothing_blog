@@ -40,7 +40,7 @@ After making some changes to UI and creating a logo using [Canva](https://www.ca
 
 I added [buybottech](https://t.me/buytech) so investors can see the value of buys and added the bot [skeletonpricebot](https://t.me/SkeletonPriceBot) so investors can see the price and chart.
 
-Created a social media account on [twitter](https://twitter.com/nothingcoinbsc) to share updates on the project.
+I then created a social media account on [twitter](https://twitter.com/nothingcoinbsc) to share updates on the project.
 
 ### The Token
 
