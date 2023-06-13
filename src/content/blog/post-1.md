@@ -5,7 +5,7 @@ description: "this is meta description"
 date: 2022-04-04T05:00:00Z
 image: "/images/image-placeholder.png"
 categories: ["Crypto", "Startup"]
-author: "Next Protocol Dev"
+author: "Nothing Protocol Dev"
 tags: ["Crypto", "Tech"]
 draft: false
 ---
