@@ -32,6 +32,8 @@ import {
   IoMail,
 } from "react-icons/io5/index.js";
 
+import { FaTelegram } from "react-icons/fa";
+
 const Social = ({ source, className }: { source: any; className: string }) => {
   const {
     facebook,
@@ -45,6 +47,7 @@ const Social = ({ source, className }: { source: any; className: string }) => {
     discord,
     slack,
     medium,
+    telegram,
     codepen,
     bitbucket,
     dribbble,
@@ -89,6 +92,18 @@ const Social = ({ source, className }: { source: any; className: string }) => {
             rel="noopener noreferrer nofollow"
           >
             <IoLogoTwitter />
+          </a>
+        </li>
+      )}
+      {telegram && (
+        <li className="inline-block">
+          <a
+            aria-label="telegram"
+            href={telegram}
+            target="_blank"
+            rel="noopener noreferrer nofollow"
+          >
+            <FaTelegram />
           </a>
         </li>
       )}
