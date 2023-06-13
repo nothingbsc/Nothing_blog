@@ -5,3 +5,7 @@
 ## 🐞 
 
 I will detail the journey of Nothing Protocol and How I created it from Scratch.
+
+This blog was created utilising the Nextplate template: https://nextplate.netlify.app/
+
+Technology used includes, Typescript, NextJS, TailwindCSS and SCSS.
