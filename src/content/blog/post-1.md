@@ -3,10 +3,10 @@ title: "Building a safe crypto startup from scratch."
 meta_title: ""
 description: "this is meta description"
 date: 2023-06-13T05:00:00Z
-image: "/images/Nothing_Blog_StartUp.png"
-categories: ["Crypto", "Startup"]
+image: "/images/Nothing_Blog_Startup_Large.png"
+categories: ["Crypto", "Startup", "Tech"]
 author: "Nothing Protocol Dev"
-tags: ["Crypto", "Tech"]
+tags: ["Crypto", "Tech", "Startup"]
 draft: false
 ---
 
